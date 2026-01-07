@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Amelia Aprende Letras V2",
+  "description": "Aplicación educativa multisensorial para niños de 4 a 7 años basada en métodos Montessori y fonética, potenciada por IA.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
